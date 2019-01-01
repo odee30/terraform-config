@@ -5,6 +5,5 @@
   "reources":"networking",
   "author":"Olie Denyer",
   "version":"1.0",
-  "vnet_count":"1",
-  "vnet_cidr_range":"172.16.0.0/16"
+  "vnet_count":"1"
 }

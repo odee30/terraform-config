@@ -1,9 +1,1 @@
-{
-  "id": "development-networking-5002",
-  "environment":"development",
-  "project_code":"5002",
-  "reources":"networking",
-  "author":"Olie Denyer",
-  "version":"1.0",
-  "vnet_count":"1"
-}
+{"id":"development-networking-5002","environment":"development","project_code":"5002","reources":"networking","author":"Olie Denyer","version":"1.0","vnet_count":"1","vnet_cidr_range":"172.16.0.0/16"}
